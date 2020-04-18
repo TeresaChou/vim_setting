@@ -1,0 +1,9 @@
+[user]
+	email = chowduen@gmail.com
+	name = TeresaChou
+[core]
+	editor = vim
+[push]
+	default = upstream
+[merge]
+	conflictstyle = diff3
